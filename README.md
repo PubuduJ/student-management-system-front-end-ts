@@ -15,27 +15,27 @@ See the **React JS** front end of the project from [here.](https://github.com/Pu
 #### Images of the user interfaces
 
 1. Admin Login Page<br>
-   <img src="assets/login_1.png" alt="login-page" width="400px"/>
-   <img src="assets/login_2.png" alt="login-page" width="400px"/>
+   <img src="assets/login_1.png" alt="login-page" width="700px"/>
+   <img src="assets/login_2.png" alt="login-page" width="700px"/>
 
 2. System Dashboard<br>
-   <img src="assets/dashboard.png" alt="dashboard" width="400px"/>
+   <img src="assets/dashboard.png" alt="dashboard" width="700px"/>
 
 3. Save Student Page<br>
-   <img src="assets/save_student_1.png" alt="save-page" width="400px"/>
-   <img src="assets/save_student_2.png" alt="save-page" width="400px"/>
+   <img src="assets/save_student_1.png" alt="save-page" width="700px"/>
+   <img src="assets/save_student_2.png" alt="save-page" width="700px"/>
 
 4. Get Student Details Page<br>
-   <img src="assets/get_details_1.png" alt="get-student-page" width="400px"/>
-   <img src="assets/get_details_2.png" alt="get-student-page" width="400px"/>
+   <img src="assets/get_details_1.png" alt="get-student-page" width="700px"/>
+   <img src="assets/get_details_2.png" alt="get-student-page" width="700px"/>
 
 5. Update Student Details Page<br>
-   <img src="assets/update_student_1.png" alt="update-student-page" width="400px"/>
-   <img src="assets/update_student_2.png" alt="update-student-page" width="400px"/>
+   <img src="assets/update_student_1.png" alt="update-student-page" width="700px"/>
+   <img src="assets/update_student_2.png" alt="update-student-page" width="700px"/>
 
 6. Delete Student Page<br>
-   <img src="assets/delete_student_1.png" alt="delete-student-page" width="400px"/>
-   <img src="assets/delete_student_2.png" alt="delete-student-page" width="400px"/>
+   <img src="assets/delete_student_1.png" alt="delete-student-page" width="700px"/>
+   <img src="assets/delete_student_2.png" alt="delete-student-page" width="700px"/>
 
 ## Used Technologies
 
