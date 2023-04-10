@@ -1,6 +1,57 @@
-# Getting Started with Create React App
+# Student Management System - Front End <img src="assets/sms-logo.png" alt="drawing" width="27px"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project was built with **React** and **TypeScript** to better understand the React library usage with typescript.
+This project includes the fundamental CRUD operations of a student management system.
+
+See the back end of the project from [here.](https://github.com/PubuduJ/student-management-system-back-end)
+See the **React JS** front end of the project from [here.](https://github.com/PubuduJ/student-management-system-front-end)
+
+#### Highlighted features of the application,
+- Students are registered to the system by their NIC number.
+- A system administrator can enter, amend, remove, and retrieve student information.
+
+#### Images of the user interfaces
+
+1. Admin Login Page<br>
+   <img src="assets/login_1.png" alt="login-page" width="400px"/>
+   <img src="assets/login_2.png" alt="login-page" width="400px"/>
+
+2. System Dashboard<br>
+   <img src="assets/dashboard.png" alt="dashboard" width="400px"/>
+
+3. Save Student Page<br>
+   <img src="assets/save_student_1.png" alt="save-page" width="400px"/>
+   <img src="assets/save_student_2.png" alt="save-page" width="400px"/>
+
+4. Get Student Details Page<br>
+   <img src="assets/get_details_1.png" alt="get-student-page" width="400px"/>
+   <img src="assets/get_details_2.png" alt="get-student-page" width="400px"/>
+
+5. Update Student Details Page<br>
+   <img src="assets/update_student_1.png" alt="update-student-page" width="400px"/>
+   <img src="assets/update_student_2.png" alt="update-student-page" width="400px"/>
+
+6. Delete Student Page<br>
+   <img src="assets/delete_student_1.png" alt="delete-student-page" width="400px"/>
+   <img src="assets/delete_student_2.png" alt="delete-student-page" width="400px"/>
+
+## Used Technologies
+
+- React
+- TypeScript
+- React Router 6
+- Axios
+- CSS3
+
+#### Used Integrated Development Environment
+- IntelliJ IDEA
+
+## How to use ?
+- This project can be used by cloning the
+  project to your local computer.
+- Clone the project using `https://github.com/PubuduJ/student-management-system-front-end-ts.git` terminal command.
 
 ## Available Scripts
 
@@ -44,3 +95,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Version
+v1.0.0
+
+## License
+Copyright &copy; 2023 [Pubudu Janith](https://www.linkedin.com/in/pubudujanith/). All Rights Reserved.<br>
