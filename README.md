@@ -1,11 +1,11 @@
-# Student Management System - Front End <img src="assets/sms-logo.png" alt="drawing" width="27px"/>
+# Student Management System TS - Front End <img src="assets/sms-logo.png" alt="drawing" width="27px"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This project was built with **React** and **TypeScript** to better understand the React library usage with typescript.
 This project includes the fundamental CRUD operations of a student management system.
 
-See the back end of the project from [here.](https://github.com/PubuduJ/student-management-system-back-end)
+See the back end of the project from [here.](https://github.com/PubuduJ/student-management-system-back-end)<br>
 See the **React JS** front end of the project from [here.](https://github.com/PubuduJ/student-management-system-front-end)
 
 #### Highlighted features of the application,
